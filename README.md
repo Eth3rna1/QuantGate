@@ -1,3 +1,14 @@
+# QuantGate
+A quantitative decision-support system for intraday market regime detection and trade selectivity.
+
+## About
+QuantGate is designed to function as a cognitive decision-filtering system rather than a signal generator. Its purpose is to improve decision coherence by confirming constituent-level market structure and flow before permitting trades, while actively restricting participation during non-tradable or incoherent market regimes.
+
+The system analyzes real-time intraday percent changes of SPY’s top constituent stocks across multiple timeframes. This information is aggregated and visualized through a web-based interface to represent direction, magnitude, and persistence of movement. By externalizing judgment and enforcing selectivity, QuantGate aims to reduce emotional trading, FOMO-driven entries, and overtrading during choppy or transitional conditions.
+
+QuantGate does not attempt to predict price movements. Instead, it provides contextual clarity to help determine whether current market conditions are aligned with a predefined trading strategy.
+
+
 ## Project Overview
 This project is a **decision-support system for intraday market regime detection and trade selectivity**, built to reduce noise, restrict low-quality trades, and externalize judgment under uncertainty.
 
