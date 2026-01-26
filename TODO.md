@@ -7,7 +7,7 @@
     - [X] socketio-client for frontend
 
 * [ ] Stock Data
-    - [ ] Search for broker socket API
+    - [X] Search for broker socket API
     - [ ] Integrate the API
 
 

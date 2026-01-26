@@ -1,3 +1,13 @@
-.bubble {
-    padding : 10%;
+/*svg {*/
+/*    border : solid;*/
+/*}*/
+
+circle {
+    transition : r 0.2s ease-out, fill 0.5s;
+}
+
+text {
+    font-family: calibri;
+    /*position: relative;*/
+    font-weight: bold;
 }
