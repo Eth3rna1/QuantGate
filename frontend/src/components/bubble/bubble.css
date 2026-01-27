@@ -1,6 +1,6 @@
-/*svg {*/
-/*    border : solid;*/
-/*}*/
+svg {
+    border : solid;
+}
 
 circle {
     transition : r 0.2s ease-out, fill 0.5s;

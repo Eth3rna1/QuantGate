@@ -8,7 +8,7 @@ function App() {
     return <Bubble 
         timeFrame="5m"
         color="red"
-        percentChange={50}
+        percentChange={0.50}
         opacityChangeRate={1}
         usePercent={false}
     />
